@@ -1,0 +1,29 @@
+{
+    "results": [
+        {
+            "rollno": 101,
+            "name": "sundram",
+            "result": "Pass"
+        },
+        {
+            "rollno": 102,
+            "name": "amit",
+            "result": "Pass"
+        },
+        {
+            "rollno": 103,
+            "name": "shubham",
+            "result": "Pass"
+        },
+        {
+            "rollno": 104,
+            "name": "vishal",
+            "result": "Pass"
+        },
+        {
+            "rollno": 105,
+            "name": "prince",
+            "result": "Pass"
+        }
+    ]
+}
