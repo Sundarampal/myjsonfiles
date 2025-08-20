@@ -1,0 +1,23 @@
+[
+ {
+   "question": "C is a programing language? T/F true",
+   "answer":"true"
+ },
+ {
+   "question": "C++ is not an object oriented language.. T/F ",
+   "answer":"false"
+ },
+  {
+   "question": "Python has dictionary.. T/F true",
+   "answer":"true"
+ },
+ {
+   "question": "Hukulganj is the capital of Japan T/F false",
+   "answer":"false"
+ },
+  {
+   "question": "America is the best places T/F true",
+   "answer":"true"
+ }
+ 
+]
