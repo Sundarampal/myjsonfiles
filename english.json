@@ -1,0 +1,24 @@
+[
+{
+  "qno": 1,
+   "question": "They plays footbal on weekends ? T/F false",
+   "correctanswer":"false"
+ },
+  {
+    "qno": 1,
+   "question": "She goes to school every day? T/F true",
+   "correctanswer":"true"
+ },
+  {
+    "qno": 1,
+   "question": "They is playing cricket now? T/F false",
+   "correctanswer":"false"
+ },
+   {
+    "qno": 1,
+   "question": "They are playing cricket now? T/F true",
+   "correctanswer":"true"
+ }
+]
+    
+  
