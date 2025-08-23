@@ -1,0 +1,29 @@
+[
+ {
+  "qno": 1,
+   "question": "The chemical formula of water is H₂O? T/F true",
+   "correctanswer":"true"
+ },
+ {
+   "qno": 2,
+   "question": "The atomic number of oxygen is 6? T/F ",
+   "correctanswer":"false"
+ },
+  {
+    "qno": 3,
+   "question": " Acids turn blue litmus red.. T/F true",
+   "correctanswer":"true"
+ },
+ {
+   "qno": 4,
+   "question": "Photosynthesis produces carbon dioxide. T/F false",
+   "correctanswer":"false"
+ },
+  {
+    "qno": 5,
+   "question": "NaCl is known as common salt. T/F true",
+   "correctanswer":"true"
+ }
+]
+
+
