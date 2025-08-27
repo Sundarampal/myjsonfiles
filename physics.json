@@ -1,0 +1,27 @@
+[
+ {
+  "qno": 1,
+   "question": "Displacement can be zero while distance is non-zero? T/F true",
+   "correctanswer":"true"
+ },
+ {
+   "qno": 2,
+   "question": "Momentum is a scalar quantity.. T/F ",
+   "correctanswer":"false"
+ },
+  {
+    "qno": 3,
+   "question": "Work is zero if force is perpendicular to displacement... T/F true",
+   "correctanswer":"true"
+ },
+ {
+   "qno": 4,
+   "question": "Action and reaction act on the same body T/F false",
+   "correctanswer":"false"
+ },
+  {
+    "qno": 5,
+   "question": "Sound cannot travel in vacuum. T/F true",
+   "correctanswer":"true"
+ }
+]
