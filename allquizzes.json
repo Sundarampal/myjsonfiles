@@ -1,0 +1,17 @@
+[
+ {
+  "quizno": 1,
+   "quizname": "Chemistry",
+   "quizurl":"https://sundarampal.github.io/myjsonfiles/chemistry.json"
+ },
+ {
+   "quizno": 2,
+   "quizname": "english ",
+   "quizurl":"https://sundarampal.github.io/myjsonfiles/english.json"
+ },
+  {
+    "quizno": 3,
+   "quizname": "physics",
+   "quizurl":"https://sundarampal.github.io/myjsonfiles/physics.json"
+ }
+]
