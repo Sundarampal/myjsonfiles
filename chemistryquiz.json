@@ -1,0 +1,24 @@
+[
+    {
+    "quizno": 1,
+   "quizname": "inorganic chemistry",
+   "quizurl1":"q1"
+   ,
+   "quizurl2":"q2"
+    },
+    
+    {
+    "quizno": 2,
+   "quizname": "acid",
+   "quizurl":"q1",
+    "quizurl2":"q2"
+    },
+    
+    {
+    "quizno": 3,
+   "quizname": " water",
+   "quizurl":"q1",
+    "quizurl2":"q2"
+    }
+    
+]
