@@ -2,9 +2,8 @@
     {
     "quizno": 1,
    "quizname": "inorganic chemistry",
-   "quizurl1":"q1"
-   ,
-   "quizurl2":"q2"
+    "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/physics.json"
     },
     
     {
