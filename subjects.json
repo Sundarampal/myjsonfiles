@@ -1,0 +1,21 @@
+[
+ {
+  "no": 1,
+   "subjectname": "Chemistry",
+   "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/chemistry.json"
+ },
+ {
+   "no": 2,
+   "subjectname": "english ",
+   "url1":"sundarampal.github.io",
+    "url2":"/myjsonfiles/english.json"
+
+ },
+  {
+    "no": 3,
+   "subjectname": "physics",
+   "url1":"sundarampal.github.io",
+    "url2":"/myjsonfiles/physics.json"
+ }
+]
