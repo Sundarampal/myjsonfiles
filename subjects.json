@@ -3,19 +3,19 @@
   "no": 1,
    "subjectname": "Chemistry",
    "url1":"sundarampal.github.io",
-   "url2":"/myjsonfiles/chemistry.json"
+   "url2":"/myjsonfiles/chemistryquiz.json"
  },
  {
    "no": 2,
    "subjectname": "english ",
    "url1":"sundarampal.github.io",
-    "url2":"/myjsonfiles/english.json"
+    "url2":"/myjsonfiles/englishquiz.json"
 
  },
   {
     "no": 3,
    "subjectname": "physics",
    "url1":"sundarampal.github.io",
-    "url2":"/myjsonfiles/physics.json"
+    "url2":"/myjsonfiles/physicsquiz.json"
  }
 ]
