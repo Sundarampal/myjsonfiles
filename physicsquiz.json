@@ -1,0 +1,23 @@
+[
+    {
+    "quizno": 1,
+   "quizname": "inorganic physics",
+    "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/physicsquiz.json"
+    },
+    
+    {
+    "quizno": 2,
+   "quizname": "Momentum = ?",
+   "quizurl":"q1",
+    "quizurl2":"q2"
+    },
+    
+    {
+    "quizno": 3,
+   "quizname": " Speed is a vector.",
+   "quizurl":"q1",
+    "quizurl2":"q2"
+    }
+    
+]
