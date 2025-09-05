@@ -8,14 +8,14 @@
     
     {
     "quizno": 2,
-   "quizname": "acid",
+   "quizname": "chemistry question",
    "quizurl":"q1",
     "quizurl2":"q2"
     },
     
     {
     "quizno": 3,
-   "quizname": " water",
+   "quizname": " answer",
    "quizurl":"q1",
     "quizurl2":"q2"
     }
