@@ -8,14 +8,14 @@
     
     {
     "quizno": 2,
-   "quizname": "Where do you study?",
+   "quizname": "english question",
    "quizurl":"q1",
     "quizurl2":"q2"
     },
     
     {
     "quizno": 3,
-   "quizname": "What is your hobby?",
+   "quizname": "answer",
    "quizurl":"q1",
     "quizurl2":"q2"
     }
