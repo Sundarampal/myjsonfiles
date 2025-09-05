@@ -1,0 +1,29 @@
+[
+    {
+    "qno": 1,
+   "questionname": "englishquestion",
+    "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/englishquestion.json"
+    },
+    
+    {
+    "qno": 2,
+   "questionname": "What is your favorite color?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    },
+     {
+    "qno": 3,
+   "questionname": "Do you like fruits?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    },
+     {
+    "qno": 4,
+   "questionname": "Which is your favorite animal?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    }
+    
+    
+]

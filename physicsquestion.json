@@ -1,0 +1,29 @@
+[
+    {
+    "qno": 1,
+   "questionname": "physicsquestion",
+    "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/physicsquestion.json"
+    },
+    
+    {
+    "qno": 2,
+   "questionname": "Who is the father of physics?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    },
+     {
+    "qno": 3,
+   "questionname": "What is friction?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    },
+     {
+    "qno": 4,
+   "questionname": "What is light?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    }
+    
+    
+]

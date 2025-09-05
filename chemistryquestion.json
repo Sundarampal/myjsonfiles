@@ -1,0 +1,29 @@
+[
+    {
+    "qno": 1,
+   "questionname": "chemistryquestion",
+    "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/chemistryquestion.json"
+    },
+    
+    {
+    "qno": 2,
+   "questionname": "What is the chemical formula of water?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    },
+     {
+    "qno": 3,
+   "questionname": "Which acid is found in lemon?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    },
+     {
+    "qno": 4,
+   "questionname": "What is the chemical symbol of sodium?",
+   "questionurl":"q1",
+    "questionurl2":"q2"
+    }
+    
+    
+]
