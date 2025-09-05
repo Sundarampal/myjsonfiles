@@ -9,8 +9,8 @@
     {
     "quizno": 2,
    "quizname": "chemistry question",
-   "quizurl":"q1",
-    "quizurl2":"q2"
+   "url":"q1",
+    "url2":"q2"
     }
     
 ]
