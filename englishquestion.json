@@ -9,19 +9,19 @@
     {
     "qno": 2,
    "questionname": "What is your favorite color?",
-   "url":"q1",
+   "url1":"q1",
     "url2":"q2"
     },
      {
     "qno": 3,
    "questionname": "Do you like fruits?",
-   "url":"q1",
+   "url1":"q1",
     "url2":"q2"
     },
      {
     "qno": 4,
    "questionname": "Which is your favorite animal?",
-   "url":"q1",
+   "url1":"q1",
     "url2":"q2"
     }
     
