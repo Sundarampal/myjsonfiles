@@ -4,20 +4,12 @@
    "quizname": "inorganic english",
     "url1":"sundarampal.github.io",
    "url2":"/myjsonfiles/englishquiz.json"
-    },
+    }
     
     {
     "quizno": 2,
-   "quizname": "Where do you study?",
-   "quizurl":"q1",
-    "quizurl2":"q2"
-    },
-    
-    {
-    "quizno": 3,
-   "quizname": "What is your hobby?",
+   "quizname": "english question",
    "quizurl":"q1",
     "quizurl2":"q2"
     }
-    
 ]

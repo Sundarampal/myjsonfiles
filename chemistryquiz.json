@@ -3,19 +3,12 @@
     "quizno": 1,
    "quizname": "inorganic chemistry",
     "url1":"sundarampal.github.io",
-   "url2":"/myjsonfiles/physics.json"
-    },
+   "url2":"/myjsonfiles/chemistryquiz.json"
+    }
     
     {
     "quizno": 2,
-   "quizname": "acid",
-   "quizurl":"q1",
-    "quizurl2":"q2"
-    },
-    
-    {
-    "quizno": 3,
-   "quizname": " water",
+   "quizname": "chemistry question",
    "quizurl":"q1",
     "quizurl2":"q2"
     }
