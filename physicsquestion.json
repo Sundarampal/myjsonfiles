@@ -9,20 +9,20 @@
     {
     "qno": 2,
    "questionname": "Who is the father of physics?",
-   "questionurl":"q1",
-    "questionurl2":"q2"
+   "url":"q1",
+    "url2":"q2"
     },
      {
     "qno": 3,
    "questionname": "What is friction?",
-   "questionurl":"q1",
-    "questionurl2":"q2"
+   "url":"q1",
+    "url2":"q2"
     },
      {
     "qno": 4,
    "questionname": "What is light?",
-   "questionurl":"q1",
-    "questionurl2":"q2"
+   "url":"q1",
+    "url2":"q2"
     }
     
     
