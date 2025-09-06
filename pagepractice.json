@@ -1,20 +1,20 @@
 [
     {
-    "no": 1,
-   "name": "pagepractice",
+    "pno": 1,
+   "onepagename": "pagepractice",
     "url1":"sundarampal.github.io",
    "url2":"/myjsonfiles/pagepractice.json"
     },
     
     {
-    "qno": 2,
-   "name": "math",
+    "pno": 2,
+   "onepagename": "math",
    "url1":"q1",
     "url2":"q2"
     },
      {
-    "qno": 3,
-   "name": "computer",
+    "pno": 3,
+   "onepagename": "computer",
    "url1":"q1",
     "url2":"q2"
     
