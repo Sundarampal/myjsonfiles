@@ -1,0 +1,24 @@
+[
+    {
+    "no": 1,
+   "name": "pagepractice",
+    "url1":"sundarampal.github.io",
+   "url2":"/myjsonfiles/pagepractice.json"
+    },
+    
+    {
+    "qno": 2,
+   "name": "math",
+   "url1":"q1",
+    "url2":"q2"
+    },
+     {
+    "qno": 3,
+   "name": "computer",
+   "url1":"q1",
+    "url2":"q2"
+    
+    }
+    
+    
+]
