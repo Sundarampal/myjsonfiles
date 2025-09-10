@@ -1,0 +1,37 @@
+[
+  {
+    "Mathematics": {
+      "q1": "What is 5 + 7?",
+      "q2": "Solve: 12 × 8",
+      "q3": "Square root of 144?"
+    }
+  },
+  {
+    "Science": {
+      "q1": "Who proposed the theory of relativity?",
+      "q2": "What is H2O?",
+      "q3": "Speed of light is?"
+    }
+  },
+  {
+    "History": {
+      "q1": "Who was the first President of India?",
+      "q2": "In which year did India get independence?",
+      "q3": "Who was known as Iron Man of India?"
+    }
+  },
+  {
+    "Geography": {
+      "q1": "Which is the largest continent?",
+      "q2": "Capital of Japan?",
+      "q3": "Longest river in the world?"
+    }
+  },
+  {
+    "Computer Science": {
+      "q1": "Who is called the father of computers?",
+      "q2": "What does CPU stand for?",
+      "q3": "Which company created Windows OS?"
+    }
+  }
+]
