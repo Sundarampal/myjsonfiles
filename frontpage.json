@@ -1,0 +1,21 @@
+
+[
+ {
+  "sno": 1,
+  "name": "sundaram page",
+   "url1": "sundarampal.github.io", 
+   "url2":"/myjsonfiles/frontpage."
+ },
+ {
+   "sno": 2,
+   "name": " syllabus",
+   "url1": " sbj1",
+   "url2":"sbj2"
+ },
+  {
+    "sno": 3,
+    "name": "read ",
+   "url1": "sbj1 ",
+   "url2":"sbj2"
+ }
+]
