@@ -1,0 +1,27 @@
+
+[
+ {
+  "quizno": 1,
+  "quizname": "Subject quiz page",
+   "quizurl1": "sundarampal.github.io", 
+   "quizurl2":"/myjsonfiles/subject quizpage."
+ },
+ {
+   "quizno": 2,
+   "quizname": " physics",
+   "quizurl1": " sbj1",
+   "quizurl2":"sbj2"
+ },
+  {
+    "quizno": 3,
+    "quizname": "chemistry ",
+   "quizurl1": "sbj1 ",
+   "quizurl2":"sbj2"
+ },
+ {
+    "quizno": 4,
+    "quizname": "mathematics ",
+   "quizurl1": "sbj1 ",
+   "quizurl2":"sbj2"
+ }
+]
