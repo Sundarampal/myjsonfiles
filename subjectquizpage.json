@@ -8,19 +8,12 @@
  {
    "quizno": 2,
    "quizname": " physics",
-   "quizurl1": " sbj1",
-   "quizurl2":"sbj2"
+   "url": " https://sundarampal.github.io/myjsonfiles/physics.json"
  },
   {
     "quizno": 3,
     "quizname": "chemistry ",
-   "quizurl1": "sbj1 ",
-   "quizurl2":"sbj2"
- },
- {
-    "quizno": 4,
-    "quizname": "mathematics ",
-   "quizurl1": "sbj1 ",
-   "quizurl2":"sbj2"
+   "url": "https://sundarampal.github.io/myjsonfiles/chemistry.json "
  }
+ 
 ]
