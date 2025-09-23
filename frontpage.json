@@ -2,20 +2,26 @@
 [
  {
   "sno": 1,
-  "name": "sundaram page",
+  "name": "Subject page",
    "url1": "sundarampal.github.io", 
    "url2":"/myjsonfiles/frontpage."
  },
  {
    "sno": 2,
-   "name": " syllabus",
+   "name": " physics",
    "url1": " sbj1",
    "url2":"sbj2"
  },
   {
     "sno": 3,
-    "name": "read ",
+    "name": " chemistry ",
    "url1": "sbj1 ",
+   "url2":"sbj2"
+ },
+  {
+   "sno": 4,
+   "name": " mathematics",
+   "url1": " sbj1",
    "url2":"sbj2"
  }
 ]
