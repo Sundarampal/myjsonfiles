@@ -2,26 +2,18 @@
 [
  {
   "quizno": 1,
-  "quizname": "Subject quiz page",
-   "quizurl1": "sundarampal.github.io", 
-   "quizurl2":"/myjsonfiles/subject quizpage."
+  "quizname": "mathematics",
+   "url": "https://sundarampal.github.io/myjsonfiles/mathematics.json"
  },
  {
    "quizno": 2,
-   "quizname": " physics",
-   "quizurl1": " sbj1",
-   "quizurl2":"sbj2"
+   "quizname": " physicspage",
+   "url": " https://sundarampal.github.io/myjsonfiles/physicspage.json"
  },
   {
     "quizno": 3,
-    "quizname": "chemistry ",
-   "quizurl1": "sbj1 ",
-   "quizurl2":"sbj2"
- },
- {
-    "quizno": 4,
-    "quizname": "mathematics ",
-   "quizurl1": "sbj1 ",
-   "quizurl2":"sbj2"
+    "quizname": "chemistrypage ",
+   "url": "https://sundarampal.github.io/myjsonfiles/chemistrypage.json "
  }
+ 
 ]
