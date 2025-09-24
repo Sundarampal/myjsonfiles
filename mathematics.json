@@ -1,52 +1,52 @@
 [
     {
         "qno": 1,
-        "question": "What is the value of 7+8*2 ?",
+        "question": "What is the value of 7+8*2 ?"
         
     },
     {
         "qno": 2,
-        "question": "What is the value of 3+25 ?",
+        "question": "What is the value of 3+25 ?"
        
     },
     {
         "qno": 3,
-        "question": "What is 15% of 200 ?",
+        "question": "What is 15% of 200 ?"
        
     },
     {
         "qno": 4,
-        "question": "Which number is prime number ?",
+        "question": "Which number is prime number ?"
        
     },
     {
         "qno": 5,
-        "question": "What is the perimeter of a square of side 6 cm ?",
+        "question": "What is the perimeter of a square of side 6 cm ?"
         
     },
     {
         "qno": 6,
-        "question": "How many sides does a hexagon have ?",
+        "question": "How many sides does a hexagon have ?"
        
     },
     {
         "qno": 7,
-        "question": "If the area of a rectanble is 48 and the length is 8, what is the width ?",
+        "question": "If the area of a rectanble is 48 and the length is 8, what is the width ?"
         
     },
     {
         "qno": 8,
-        "question": "If 5x=30,what is x ?",
+        "question": "If 5x=30,what is x ?"
        
     },
     {
         "qno": 9,
-        "question": "What is the cube of 3 ?",
+        "question": "What is the cube of 3 ?"
     },
        
     {
         "qno": 10,
-        "question": "What is the HCF of 12 and 18 ?",
+        "question": "What is the HCF of 12 and 18 ?"
         
     }
 ]
