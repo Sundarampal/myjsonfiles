@@ -7,13 +7,13 @@
  },
  {
    "quizno": 2,
-   "quizname": " physicspage",
-   "url": " https://sundarampal.github.io/myjsonfiles/physicspage.json"
+   "quizname": "physicspage",
+   "url": "https://sundarampal.github.io/myjsonfiles/physicspage.json"
  },
   {
     "quizno": 3,
     "quizname": "chemistrypage ",
-   "url": "https://sundarampal.github.io/myjsonfiles/chemistrypage.json "
+   "url": "https://sundarampal.github.io/myjsonfiles/chemistrypage.json"
  }
  
 ]
