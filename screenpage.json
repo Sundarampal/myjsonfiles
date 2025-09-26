@@ -1,0 +1,27 @@
+[
+
+{
+"sno": 1,
+"name": "screenpage",
+"url": "https://sundarampal.github.io/myjsonfiles/pic/screenpage.json"
+},
+
+{
+"sno": 2,
+"name": "subjects",
+"url": "screen"
+},
+
+{
+"sno": 2,
+"name": "quizzes",
+"url": "screen"
+},
+
+{
+"sno": 4,
+"name": "questions",
+"url": "screen"
+}
+
+]
