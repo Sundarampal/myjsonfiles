@@ -3,18 +3,18 @@
 {
 "sno": 1,
 "name": "english quizzes",
-"url": "https://sundarampal.github.io/myjsonfiles/englishqizzes.json"
+"url": "https://sundarampal.github.io/myjsonfiles/english%20qizzes.json"
 },
 {
 "sno": 2,
 "name": "physics quizzes",
-"url": "https://sundarampal.github.io/myjsonfiles/physicsquizzes.json"
+"url": "https://sundarampal.github.io/myjsonfiles/physics%20quizzes.json"
 },
 
 {
 "sno": 3,
 "name": "chemistry quizzes",
-"url": "https://sundarampal.github.io/myjsonfiles/chemistryquizzes.json"
+"url": "https://sundarampal.github.io/myjsonfiles/chemistry%20quizzes.json"
 }
 
 
