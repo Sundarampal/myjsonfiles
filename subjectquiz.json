@@ -1,0 +1,21 @@
+[
+
+{
+"sno": 1,
+"name": "english quizzes",
+"url": "https://sundarampal.github.io/myjsonfiles/englishqizzes.json"
+},
+{
+"sno": 2,
+"name": "physics quizzes",
+"url": "https://sundarampal.github.io/myjsonfiles/physicsquizzes.json"
+},
+
+{
+"sno": 3,
+"name": "chemistry quizzes",
+"url": "https://sundarampal.github.io/myjsonfiles/chemistryquizzes.json"
+}
+
+
+]
