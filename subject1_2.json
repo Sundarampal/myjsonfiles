@@ -8,5 +8,15 @@
 "id": "sci",
 "name": "Science",
 "quizzes_url": "https://sundarampal.github.io/myjsonfiles/quizzes_science.json"
+},
+  {
+"id": "english",
+"name": "English",
+"quizzes_url": "https://sundarampal.github.io/myjsonfiles/quizzes_english.json"
+},
+{
+"id": "hindi",
+"name": "Hindi",
+"quizzes_url": "https://sundarampal.github.io/myjsonfiles/quizzes_hindi.json"
 }
 ]
