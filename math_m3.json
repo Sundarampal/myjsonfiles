@@ -1,0 +1,58 @@
+{
+"id": "m1",
+"title": " chapter 3 True/False",
+"questions": [
+{
+"id": "q1",
+"text": "Two lines intersecting at one point have a unique solution.",
+"answer": true
+},
+{
+"id": "q2",
+"text": "Parallel lines have infinitely many solutions.",
+"answer": false
+},
+{
+"id": "q3",
+"text": "Coincident lines have no solution",
+"answer": false
+},
+{
+"id": "q4",
+"text": "If two equations are multiples, they represent the same line.",
+"answer": true
+},
+ 
+{
+"id": "q5",
+"text": "2x + 3y = 6 is a linear equation.",
+"answer": true
+},
+{
+"id": "q6",
+"text": "",
+"answer": false
+},
+{
+"id": "q7",
+"text": "Intersecting lines always form a pair of inconsistent equations.",
+"answer": false
+},
+{
+"id": "q8",
+"text": "A solution of a linear equation is an ordered pair.",
+"answer": true
+},
+  {
+"id": "q9",
+"text": "Linear equations can have more than one solution.",
+"answer": true
+},
+{
+"id": "q10",
+"text": "If two lines are parallel, they never meet.",
+"answer": true
+}
+  
+]
+}
