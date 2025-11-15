@@ -1,14 +1,20 @@
 [
 {
 "id": "m1",
-"title": "Basic Math True/False",
-"description": "Simple arithmetic questions",
+"title": "Chapter-1 True/False",
+"description": " Real Number",
 "questions_url": "https://sundarampal.github.io/myjsonfiles/math_m1.json"
 },
 {
 "id": "m2",
-"title": "Advanced Math True/False",
-"description": "Slightly tricky math questions",
+"title": "Chapter-2 True/False",
+"description": "Polynomial",
 "questions_url": "https://sundarampal.github.io/myjsonfiles/math_m2.json"
+},
+  {
+"id": "m3",
+"title": "Chapter-3 True/False",
+"description": "Linear Equations in Two Variables",
+"questions_url": "https://sundarampal.github.io/myjsonfiles/math_m3.json"
 }
 ]
