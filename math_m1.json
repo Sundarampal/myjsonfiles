@@ -1,26 +1,58 @@
 {
 "id": "m1",
-"title": "Basic Math True/False",
+"title": "Basic Math chapter 1 Real Number True/False",
 "questions": [
 {
 "id": "q1",
-"text": "8*8 = 64",
+"text": "17/20 is a terminating decimal",
 "answer": true
 },
 {
 "id": "q2",
-"text": "5 is an even number",
+"text": "√3 is a rational number",
 "answer": false
 },
 {
 "id": "q3",
-"text": "10 is greater than 20",
+"text": "0.1010010001… is a rational number",
 "answer": false
 },
 {
 "id": "q4",
-"text": "Square root of 9 is 3",
+"text": "Terminating decimals are always rational",
+"answer": true
+},
+ 
+{
+"id": "q5",
+"text": "LCM × HCF = Product of the two numbers.",
+"answer": true
+},
+{
+"id": "q6",
+"text": "√49 is an irrational number.",
+"answer": false
+},
+{
+"id": "q7",
+"text": "The product of two irrational numbers is always irrational",
+"answer": false
+},
+{
+"id": "q8",
+"text": "The HCF of two numbers always divides their LCM",
+"answer": true
+},
+  {
+"id": "q9",
+"text": "√47 is an irrational number",
+"answer": false
+},
+{
+"id": "q10",
+"text": "Every natural number is an integer",
 "answer": true
 }
+  
 ]
 }
