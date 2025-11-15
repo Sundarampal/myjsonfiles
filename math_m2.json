@@ -1,26 +1,58 @@
 {
 "id": "m2",
-"title": "Advanced Math True/False",
+"title": "Basic Math chapter 2 True/False",
 "questions": [
 {
 "id": "q1",
-"text": "Zero is an even number",
+"text": "A polynomial of degree 1 is linear.",
 "answer": true
 },
 {
 "id": "q2",
-"text": "π (pi) is exactly equal to 3.14",
+"text": "x³ + 5x is a quadratic polynomial.",
 "answer": false
 },
 {
 "id": "q3",
-"text": "Every prime number is odd",
+"text": "A cubic polynomial has 4 zeros.",
 "answer": false
 },
 {
 "id": "q4",
-"text": "The derivative of x² is 2x",
+"text": "If x = 2 is a zero of p(x), then p(2) = 0.",
+"answer": true
+},
+ 
+{
+"id": "q5",
+"text": "The graph of a linear polynomial is a straight line.",
+"answer": true
+},
+{
+"id": "q6",
+"text": "A polynomial can have infinite terms.",
+"answer": false
+},
+{
+"id": "q7",
+"text": "Remainder theorem applies to quadratic equations only.",
+"answer": false
+},
+{
+"id": "q8",
+"text": "A polynomial cannot have negative powers of x",
+"answer": true
+},
+  {
+"id": "q9",
+"text": "The degree of a constant polynomial is 0",
+"answer": true
+},
+{
+"id": "q10",
+"text": "3x² + 7 is a quadratic polynomial.",
 "answer": true
 }
+  
 ]
 }
