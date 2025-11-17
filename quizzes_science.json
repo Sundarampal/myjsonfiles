@@ -1,8 +1,20 @@
 [
 {
 "id": "s1",
-"title": "Basic Science Quiz",
-"description": "True/False science questions",
-"questions_url": "https://sundarampal.github.io/myjsonfiles/science_s1.json"
+"title": "Physics",
+"description": "True/False Physics questions",
+"questions_url": "https://sundarampal.github.io/myjsonfiles/Physics_p1.json"
+},
+  {
+"id": "s2",
+"title": "Chemistry",
+"description": "True/False Chemistry questions",
+"questions_url": "https://sundarampal.github.io/myjsonfiles/Chemistry_c1.json"
+},
+  {
+"id": "s3",
+"title": "Biology",
+"description": "True/False Biology questions",
+"questions_url": "https://sundarampal.github.io/myjsonfiles/Biology_b1.json"
 }
 ]
