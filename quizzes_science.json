@@ -9,12 +9,12 @@
 "id": "s2",
 "title": "Chemistry",
 "description": "True/False Chemistry questions",
-"questions_url": "https://sundarampal.github.io/myjsonfiles/Chemistry_c1.json"
+"questions_url": "https://sundarampal.github.io/myjsonfiles/Chemistry_c2.json"
 },
   {
 "id": "s3",
 "title": "Biology",
 "description": "True/False Biology questions",
-"questions_url": "https://sundarampal.github.io/myjsonfiles/Biology_b1.json"
+"questions_url": "https://sundarampal.github.io/myjsonfiles/Biology_b3.json"
 }
 ]
