@@ -1,0 +1,58 @@
+{
+"id": "B3",
+"title": " Biology True/False",
+"questions": [
+{
+"id": "q1",
+"text": "Photosynthesis occurs in the chloroplast of plant cells.",
+"answer": true
+},
+{
+"id": "q2",
+"text": "Stomata are present only on the upper surface of leaves.",
+"answer": false
+},
+{
+"id": "q3",
+"text": "Phloem transports water and minerals in plants.",
+"answer": false
+},
+{
+"id": "q4",
+"text": "Insulin is produced by the pancreas.",
+"answer": true
+},
+ 
+{
+"id": "q5",
+"text": "DNA is the genetic material found in the nucleus of cells.",
+"answer": true
+},
+{
+"id": "q6",
+"text": "Red blood cells have a nucleus.",
+"answer": false
+},
+{
+"id": "q7",
+"text": "Neuron is the smallest cell in the human body.",
+"answer": false
+},
+{
+"id": "q8",
+"text": "Hormones are chemical messengers in our body.",
+"answer": true
+},
+  {
+"id": "q9",
+"text": "Amoeba reproduces by binary fission.",
+"answer": true
+},
+{
+"id": "q10",
+"text": "Mitochondria is called the powerhouse of the cell.",
+"answer": true
+}
+  
+]
+}
