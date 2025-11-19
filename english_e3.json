@@ -1,0 +1,58 @@
+{
+"id": "e3",
+"title": " English True/False",
+"questions": [
+{
+"id": "q1",
+"text": "The young seagull was afraid to fly.",
+"answer": true
+},
+{
+"id": "q2",
+"text": "His parents pushed him off the cliff.",
+"answer": false
+},
+{
+"id": "q3",
+"text": "The young seagull never learned to fly.",
+"answer": false
+},
+{
+"id": "q4",
+"text": "His brothers and sister could fly.",
+"answer": true
+},
+ 
+{
+"id": "q5",
+"text": "He flew because he became very hungry.",
+"answer": true
+},
+{
+"id": "q6",
+"text": "He flew because he was angry.",
+"answer": false
+},
+{
+"id": "q7",
+"text": "His family scolded him after flying.",
+"answer": false
+},
+{
+"id": "q8",
+"text": "His mother used a piece of fish to tempt him.",
+"answer": true
+},
+  {
+"id": "q9",
+"text": "His first flight was successful.",
+"answer": true
+},
+{
+"id": "q10",
+"text": "He landed on the sea.",
+"answer": true
+}
+  
+]
+}
