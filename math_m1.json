@@ -5,53 +5,73 @@
 {
 "id": "q1",
 "text": "17/20 is a terminating decimal",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q2",
 "text": "√3 is a rational number",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q3",
 "text": "0.1010010001… is a rational number",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q4",
 "text": "Terminating decimals are always rational",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
  
 {
 "id": "q5",
 "text": "LCM × HCF = Product of the two numbers.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q6",
 "text": "√49 is an irrational number.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q7",
 "text": "The product of two irrational numbers is always irrational",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q8",
 "text": "The HCF of two numbers always divides their LCM",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
   {
 "id": "q9",
 "text": "√47 is an irrational number",
-"answer": false
+"answer": false,
+   "givenanswer":true
+
 },
 {
 "id": "q10",
 "text": "Every natural number is an integer",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 }
   
 ]
