@@ -5,53 +5,63 @@
 {
 "id": "q1",
 "text": "Acids produce H⁺ ions in aqueous solution.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q2",
 "text": "Acids release OH⁻ ions in water.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q3",
 "text": "Rusting of iron does not require oxygen.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q4",
 "text": "Galvanization is a method to prevent rusting.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
  
 {
 "id": "q5",
 "text": "Magnesium ribbon is cleaned before burning to remove the oxide layer.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q6",
 "text": "The pH of pure water is 1.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q7",
 "text": "Sodium Chloride is the chemical name of baking soda.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q8",
 "text": "A neutralization reaction produces salt and water.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
   {
 "id": "q9",
 "text": "Hard water contains salts of calcium and magnesium.",
-"answer": true
+"answer": true,
+   "givenanswer":true
 },
 {
 "id": "q10",
 "text": "Bases produce OH⁻ ions in water.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 }
   
 ]
