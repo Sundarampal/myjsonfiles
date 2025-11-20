@@ -5,53 +5,73 @@
 {
 "id": "q1",
 "text": "Two lines intersecting at one point have a unique solution.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q2",
 "text": "Parallel lines have infinitely many solutions.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q3",
 "text": "Coincident lines have no solution",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q4",
 "text": "If two equations are multiples, they represent the same line.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
  
 {
 "id": "q5",
 "text": "2x + 3y = 6 is a linear equation.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q6",
 "text": "",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q7",
 "text": "Intersecting lines always form a pair of inconsistent equations.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q8",
 "text": "A solution of a linear equation is an ordered pair.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
   {
 "id": "q9",
 "text": "Linear equations can have more than one solution.",
-"answer": true
+"answer": true,
+   "givenanswer":true
+
 },
 {
 "id": "q10",
 "text": "If two lines are parallel, they never meet.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 }
   
 ]
