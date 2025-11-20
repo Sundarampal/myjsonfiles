@@ -5,53 +5,63 @@
 {
 "id": "q1",
 "text": "Photosynthesis occurs in the chloroplast of plant cells.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q2",
 "text": "Stomata are present only on the upper surface of leaves.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q3",
 "text": "Phloem transports water and minerals in plants.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q4",
 "text": "Insulin is produced by the pancreas.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
  
 {
 "id": "q5",
 "text": "DNA is the genetic material found in the nucleus of cells.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q6",
 "text": "Red blood cells have a nucleus.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q7",
 "text": "Neuron is the smallest cell in the human body.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q8",
 "text": "Hormones are chemical messengers in our body.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
   {
 "id": "q9",
 "text": "Amoeba reproduces by binary fission.",
-"answer": true
+"answer": true,
+   "givenanswer":true
 },
 {
 "id": "q10",
 "text": "Mitochondria is called the powerhouse of the cell.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 }
   
 ]
