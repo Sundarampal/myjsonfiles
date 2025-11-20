@@ -5,53 +5,72 @@
 {
 "id": "q1",
 "text": "A polynomial of degree 1 is linear.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q2",
 "text": "x³ + 5x is a quadratic polynomial.",
-"answer": false
+"answer": false,
+  "givenanswer":true
+
 },
 {
 "id": "q3",
 "text": "A cubic polynomial has 4 zeros.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q4",
 "text": "If x = 2 is a zero of p(x), then p(2) = 0.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
  
 {
 "id": "q5",
 "text": "The graph of a linear polynomial is a straight line.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q6",
 "text": "A polynomial can have infinite terms.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q7",
 "text": "Remainder theorem applies to quadratic equations only.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q8",
 "text": "A polynomial cannot have negative powers of x",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
   {
 "id": "q9",
 "text": "The degree of a constant polynomial is 0",
-"answer": true
+"answer": true,
+   "givenanswer":true
+
 },
 {
 "id": "q10",
 "text": "3x² + 7 is a quadratic polynomial.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 }
   
 ]
