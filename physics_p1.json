@@ -5,53 +5,63 @@
 {
 "id": "q1",
 "text": "Light travels in a straight line.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q2",
 "text": "The speed of light in glass is more than the speed of light in air.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q3",
 "text": ". A convex lens always forms a virtual image.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q4",
 "text": "A concave mirror can form a real image.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
  
 {
 "id": "q5",
 "text": "The unit of electric current is Ampere.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
 {
 "id": "q6",
 "text": "Resistance decreases when the length of the conductor increases.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q7",
 "text": "A voltmeter is connected in series in a circuit.",
-"answer": false
+"answer": false,
+ "givenanswer":true
 },
 {
 "id": "q8",
 "text": "A fuse wire has a low melting point.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 },
   {
 "id": "q9",
 "text": "Magnetic field lines always form closed loops.",
-"answer": true
+"answer": true,
+   "givenanswer":true
 },
 {
 "id": "q10",
 "text": "The electric power formula is P = VI.",
-"answer": true
+"answer": true,
+ "givenanswer":true
 }
   
 ]
