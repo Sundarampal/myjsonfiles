@@ -5,17 +5,23 @@
 {
 "id": "q1",
 "text": "Lencho was a poor farmer.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q2",
 "text": "Lencho asked God for 100 pesos.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q3",
 "text": "Lencho thought the post office employees were honest.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q4",
@@ -26,32 +32,44 @@
 {
 "id": "q5",
 "text": "The postmaster decided to help Lencho",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q6",
 "text": "Lencho received the full 100 pesos",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q7",
 "text": ". Lencho believed the money came from the postmaster.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q8",
 "text": "Lencho had strong faith in God.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
   {
 "id": "q9",
 "text": "Lencho wrote a second letter also.",
-"answer": true
+"answer": true,
+   "givenanswer":true
+
 },
 {
 "id": "q10",
 "text": "Lencho wrote a letter asking for help.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 }
   
 ]
