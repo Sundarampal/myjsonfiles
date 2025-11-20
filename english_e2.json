@@ -5,53 +5,74 @@
 {
 "id": "q1",
 "text": "Nelson Mandela fought against apartheid.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
 {
 "id": "q2",
 "text": "Apartheid promoted equality.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q3",
 "text": "Mandela was 30 years old during inauguration.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q4",
 "text": "Mandela became South Africa’s first Black President.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
  
 {
 "id": "q5",
 "text": "South Africa celebrated its first democratic government.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
+ 
 },
 {
 "id": "q6",
 "text": "Mandela said courage means no fear.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q7",
 "text": "Mandela’s inauguration took place at his home.",
-"answer": false
+"answer": false,
+ "givenanswer":true
+
 },
 {
 "id": "q8",
 "text": "Mandela thanked world leaders.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 },
   {
 "id": "q9",
 "text": "Mandela believed no one is born hating another.",
-"answer": true
+"answer": true,
+   "givenanswer":true
+
 },
 {
 "id": "q10",
 "text": "Mandela spent many years in prison.",
-"answer": true
+"answer": true,
+ "givenanswer":true
+
 }
   
 ]
