@@ -1,22 +1,11 @@
-{
-  "news": [
+ [
+
     {
-      "title": "CBSE Board Released New Exam Pattern",
-      "subtitle": "Class 10 & 12 ke liye important update",
-      "image": "https://cdn-icons-png.flaticon.com/512/3209/3209985.png",
-      "date": "2025-12-09"
-    },
-    {
-      "title": "UP Police New Vacancy Out",
-      "subtitle": "Online form start, syllabus updated",
-      "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-      "date": "2025-12-08"
-    },
-    {
-      "title": "SSC GD 2025 Exam Notice",
-      "subtitle": "Official notification published",
-      "image": "https://cdn-icons-png.flaticon.com/512/1995/1995510.png",
-      "date": "2025-12-05"
-    }
-  ]
+"id": "n1",
+"title": "HIGH SCHOOL",
+"summary": "MOST IMPORTANT QUESTION",
+"details": "Most important question That are asked in an  Exam "
+
+
 }
+]
