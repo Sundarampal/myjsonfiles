@@ -1,61 +1,77 @@
 {
-  "quizId": "math_01",
-  "quizTitle": "Math Decimal Quiz",
-  "questions": [
-    {
-      "id": 1,
-      "question": "17/20 is a terminating decimal.",
-      "options": [
-        "True",
-        "False",
-        "Cannot Say",
-        "None of these"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 2,
-      "question": "Which of the following fractions is a terminating decimal?",
-      "options": [
-        "7/12",
-        "5/8",
-        "11/30",
-        "13/45"
-      ],
-      "answerIndex": 1
-    },
-    {
-      "id": 3,
-      "question": "0.75 in fraction form is:",
-      "options": [
-        "3/4",
-        "1/2",
-        "2/5",
-        "4/7"
-      ],
-      "answerIndex": 0
-    },
-    {
-      "id": 4,
-      "question": "Which number is a non-terminating decimal?",
-      "options": [
-        "0.5",
-        "1.25",
-        "0.666...",
-        "2.75"
-      ],
-      "answerIndex": 2
-    },
-    {
-      "id": 5,
-      "question": "2.5 × 4 equals:",
-      "options": [
-        "8",
-        "10",
-        "12",
-        "6"
-      ],
-      "answerIndex": 1
-    }
-  ]
+"id": "m2",
+"title": "Real number",
+"questions": [
+{
+"id": "q1",
+"text": "Euclid’s division lemma is used to find HCF.",
+"answer": true,
+ "givenanswer":true
+},
+{
+"id": "q2",
+"text": "Every prime number is a composite number.",
+"answer": false,
+  "givenanswer":true
+
+},
+{
+"id": "q3",
+"text": "Any number of the form 6𝑛+56n+5 is prime.",
+"answer": false,
+ "givenanswer":true
+
+},
+{
+"id": "q4",
+"text": "HCF of two coprime numbers is 1.",
+"answer": true,
+ "givenanswer":true
+
+},
+ 
+{
+"id": "q5",
+"text": "Every natural number greater than 1 is either prime or composite",
+"answer": true,
+ "givenanswer":true
+
+},
+{
+"id": "q6",
+"text": "Zero is a prime number.",
+"answer": false,
+ "givenanswer":true
+
+},
+{
+"id": "q7",
+"text": "Product of two irrational numbers is always irrational.",
+"answer": false,
+ "givenanswer":true
+
+},
+{
+"id": "q8",
+"text": "Rational numbers have terminating or non-terminating repeating decimals.",
+"answer": true,
+ "givenanswer":true
+
+},
+  {
+"id": "q9",
+"text": "1 is a composite number. ",
+"answer": false,
+   "givenanswer":true
+
+},
+{
+"id": "q10",
+"text": "Every real number can be represented on the number line",
+"answer": true,
+ "givenanswer":true
+
+}
+  
+]
 }
