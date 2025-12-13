@@ -1,0 +1,118 @@
+{
+  "chapter": "From the Diary of Anne Frank",
+  "class": 10,
+  "subject": "English",
+  "book": "First Flight",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the author of 'From the Diary of Anne Frank'?",
+      "options": {
+        "A": "Anne Frank",
+        "B": "Otto Frank",
+        "C": "Helen Keller",
+        "D": "Anne Sullivan"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "What was the name Anne gave to her diary?",
+      "options": {
+        "A": "Kitty",
+        "B": "Dolly",
+        "C": "Nancy",
+        "D": "Betty"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Why did Anne start writing a diary?",
+      "options": {
+        "A": "To improve handwriting",
+        "B": "To become a writer",
+        "C": "Because she had no true friend",
+        "D": "As a school assignment"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Where was Anne Frank born?",
+      "options": {
+        "A": "Netherlands",
+        "B": "Germany",
+        "C": "France",
+        "D": "England"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "What was Anne’s age when she started writing the diary?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Why did Anne’s teacher assign her extra homework?",
+      "options": {
+        "A": "She was weak in studies",
+        "B": "She talked too much",
+        "C": "She was absent",
+        "D": "She was late"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "What was the title of Anne’s essay?",
+      "options": {
+        "A": "A Chatterbox",
+        "B": "My Best Friend",
+        "C": "The Diary",
+        "D": "My School"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "How did Mr. Keesing react after reading Anne’s essays?",
+      "options": {
+        "A": "He got angry",
+        "B": "He ignored them",
+        "C": "He laughed and was impressed",
+        "D": "He punished her"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "What kind of student was Anne Frank?",
+      "options": {
+        "A": "Shy and silent",
+        "B": "Talkative and intelligent",
+        "C": "Lazy and careless",
+        "D": "Rude and disobedient"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "What lesson does the chapter convey?",
+      "options": {
+        "A": "Fear of teachers",
+        "B": "Power of writing and self-expression",
+        "C": "Importance of silence",
+        "D": "Strict discipline"
+      },
+      "answer": "B"
+    }
+  ]
+}
