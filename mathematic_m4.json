@@ -1,0 +1,117 @@
+{
+  "chapter": "Quadratic Equations",
+  "class": 10,
+  "subject": "Mathematics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "एक quadratic equation की degree होती है –",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Quadratic equation का standard form है –",
+      "options": {
+        "A": "ax + b = 0",
+        "B": "ax^2 + bx + c = 0",
+        "C": "x^3 + ax + b = 0",
+        "D": "a + b = 0"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Discriminant (D) का formula है –",
+      "options": {
+        "A": "b^2 + 4ac",
+        "B": "b^2 - 4ac",
+        "C": "a^2 - 4bc",
+        "D": "4ac - b^2"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "अगर D > 0 हो, तो roots होंगे –",
+      "options": {
+        "A": "Real and equal",
+        "B": "Real and unequal",
+        "C": "Imaginary",
+        "D": "No roots"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "अगर D = 0 हो, तो roots होंगे –",
+      "options": {
+        "A": "Imaginary",
+        "B": "Real and unequal",
+        "C": "Real and equal",
+        "D": "No solution"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "अगर D < 0 हो, तो roots होंगे –",
+      "options": {
+        "A": "Real",
+        "B": "Real and equal",
+        "C": "Imaginary",
+        "D": "Rational"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Equation x^2 - 5x + 6 = 0 के roots हैं –",
+      "options": {
+        "A": "1, 6",
+        "B": "2, 3",
+        "C": "-2, -3",
+        "D": "0, 6"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Quadratic equation को solve करने की method नहीं है –",
+      "options": {
+        "A": "Factorization",
+        "B": "Completing the square",
+        "C": "Quadratic formula",
+        "D": "Elimination method"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Quadratic formula है –",
+      "options": {
+        "A": "(-b ± √(b^2 - 4ac)) / 2a",
+        "B": "(b ± √(b^2 - 4ac)) / 2a",
+        "C": "(-b ± √(b^2 + 4ac)) / 2a",
+        "D": "(a ± √(b^2 - 4ac)) / 2b"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Equation 2x^2 = 7x को standard form में लिखने पर होगा –",
+      "options": {
+        "A": "2x^2 + 7x = 0",
+        "B": "2x^2 - 7x = 0",
+        "C": "7x - 2x^2 = 0",
+        "D": "x^2 - 7x = 0"
+      },
+      "answer": "B"
+    }
+  ]
+}
