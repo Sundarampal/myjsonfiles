@@ -4,5 +4,11 @@
 "title": "Options wise question",
 "description": "only sanskrit",
 "questions_url": "https://sundarampal.github.io/myjsonfiles/sanskrit_s1.json"
+},
+  {
+"id": "s2",
+"title": "second chapter",
+"description": "only sanskrit",
+"questions_url": "https://sundarampal.github.io/myjsonfiles/sanskrit_s1.json"
 }
 ]
