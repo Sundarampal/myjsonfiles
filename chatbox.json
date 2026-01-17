@@ -1,6 +1,4 @@
-{
-  "app": "Editable Chat Boxes",
-  "chat": {
+
     "messages": [
       {
         "from": "A",
@@ -13,5 +11,4 @@
         "text": "Hi"
       }
     ]
-  }
-}
+  
