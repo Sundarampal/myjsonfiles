@@ -12,9 +12,14 @@
       }
         ,
       {
-        "from": "B",
+        "from": "c",
         "to": "A",
         "text": "ok"
+      },
+         {
+        "from": "d",
+        "to": "b",
+        "text": "thanks"
       }
 
     ]
