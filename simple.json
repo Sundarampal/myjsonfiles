@@ -2,6 +2,6 @@
   "name": "Sundram",
   "age": 24,
   "city": "Varanasi",
-  "skills": ["Flutter", "Dart", "Firebase"],
-  "isStudent": true
+  "skills": ["Flutter", "Dart"]
+ 
 }
