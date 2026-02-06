@@ -1,10 +1,4 @@
-{
-  "app": "Editable Chat Boxes",
-  "chat": {
-    "participants": {
-      "sender": "A",
-      "receiver": "B"
-    },
+
     "messages": [
       {
         "from": "A",
@@ -16,6 +10,17 @@
         "to": "A",
         "text": "Hi"
       }
+        ,
+      {
+        "from": "c",
+        "to": "A",
+        "text": "ok"
+      },
+         {
+        "from": "d",
+        "to": "b",
+        "text": "thanks"
+      }
+
     ]
-  }
-}
+  
