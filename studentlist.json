@@ -1,8 +1,20 @@
- {
-    "students": [
-      { "name": "Sundram", "age": 24 },
-      { "name": "Ashutosh", "age": 26 },
-      { "name": "piyush", "age": 19 },
-      { "name": "avinash", "age": 30 }
-    ]
-  }
+{
+  "students": [
+    {
+      "name": "Sundram",
+      "age": 24
+    },
+    {
+      "name": "Ashutosh",
+      "age": 26
+    },
+    {
+      "name": "Piyush",
+      "age": 19
+    },
+    {
+      "name": "Avinash",
+      "age": 30
+    }
+  ]
+}
